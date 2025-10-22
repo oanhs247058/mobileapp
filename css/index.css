@@ -24,8 +24,8 @@ body {
     /* 16px */
     font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
     text-align: center;
-    background-image: url(../img1/hinh\ nen.png);
-    background-size: cover;
+    background-image: url(../img/bear.jpg);
+    background-size: auto;
     overflow: hidden;
 }
 
